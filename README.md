@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/309b6e50-9343-4e0d-9d3d-410c7be4beeb)Cab Booking Application
-
+Cab Booking Application ER diagram
 ![185020617-92914a9c-b5e2-4b3b-aa36-dc6a26454cba](https://github.com/user-attachments/assets/66a55ab9-f744-4761-bb4f-d95d11e2508e)
 
 
